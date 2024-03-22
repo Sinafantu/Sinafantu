@@ -13,8 +13,8 @@
 -  🎓 &nbsp; Studied computer science and engineering (graduated on July 2023).
 -  🌱 &nbsp; I’m currently learning cloud computing
 -  🤔 &nbsp; I'm currently working on different projects.
--  You can find my projects here
-👯 &nbsp; I’m looking to collaborate on any data analysis project
+- ✍ &nbsp; You can find my projects here
+- 👯 &nbsp; I’m looking to collaborate on any data analysis project
 
 
 
