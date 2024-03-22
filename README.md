@@ -8,6 +8,6 @@
 <h4>🔭 &nbsp; I’m currently working on different projects</h4>
 <h5>🌱 &nbsp; I’m currently learning cloud computing </h5> 
 <h6>👯 &nbsp; I’m looking to collaborate on any cloud project</h6>
-<h7>📫 &nbsp; connect with me</h7>
+<h6>📫 &nbsp; connect with me</h6>
 
   
