@@ -10,7 +10,7 @@
 -  🌱 &nbsp; I’m currently learning cloud computing
 -  🤔 &nbsp; I'm currently working on different projects.
 - ✍ &nbsp; You can find my projects here
-- 👯 &nbsp; I’m looking to collaborate on any data analysis project
+- 👯 &nbsp; I’m looking to collaborate on any cloud project
 
 
 
