@@ -1,6 +1,6 @@
 ### Hi there I'am Sina Fantu 👋
 <h1>Software Developer</h1>
-<!--
+
 **Sinafantu/Sinafantu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2>Here are some ideas to get you started:</h2>
